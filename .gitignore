@@ -1,0 +1,14 @@
+pip-selfcheck.json
+bin/
+pyvenv.cfg
+share/
+doc_for_info
+lib/
+lib64
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
